@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+.header{
+  background-color: gray;
+  height: 80px;
+  
+}
+.nav-ul li{
+  display: inline-block;
+  padding: 20px;
+  float: left;
+}
+.tableStyle{
+  margin-left: 25%;
+  border: 1px solid skyblue;
+  
+}
+tr th{
+  border: 1px solid skyblue;
+}
+tr td{
+  border: 1px solid skyblue;
+}
+.inputtxt{
+  display: block;
+  margin-top: 30px;
+  margin-left: 35%;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid skyblue;
+}
+.sbtbutton{
+  margin-top: 25px;
+  margin-left: -4%;
+
+  padding: 10px;
+  width: 100px;
+  background-color: skyblue;
+  border: 0.5px solid green;
+  cursor: pointer;
+  
+}
+ Addstud{
+  background-color: green;
+}
+  
